@@ -1,0 +1,11 @@
+2015-08-18 21:39:55,102 - ResourceManager : unable to find resource 'classpath:/velocity/example1/example.vm' in any resource loader.
+2015-08-18 21:40:29,234 - ResourceManager : unable to find resource 'E:\git-repository\spring-study\src\main\resources\velocity\example1\example.vm' in any resource loader.
+2015-08-18 21:42:44,165 - ResourceManager : unable to find resource 'E:\git-repository\spring-study\src\main\resources\velocity\example1\example.vm' in any resource loader.
+2015-08-18 21:45:38,417 - ResourceManager : unable to find resource 'E:\git-repository\spring-study\src\main\resources\velocity\example1\example.vm' in any resource loader.
+2015-08-18 22:37:37,474 - ResourceManager : unable to find resource 'example.vm' in any resource loader.
+2015-08-18 22:38:10,863 - ResourceManager : unable to find resource 'example.vm' in any resource loader.
+2015-08-18 22:39:15,431 - ResourceManager : unable to find resource '/example.vm' in any resource loader.
+2015-08-18 22:39:47,801 - ResourceManager : unable to find resource '/example.vm' in any resource loader.
+2015-08-18 22:41:10,242 - ResourceManager : unable to find resource 'example.vm' in any resource loader.
+2015-08-18 22:42:27,860 - ResourceManager : unable to find resource 'example1/example.vm' in any resource loader.
+2015-08-18 22:42:35,733 - ResourceManager : unable to find resource '/example1/example.vm' in any resource loader.

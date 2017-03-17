@@ -1,0 +1,4 @@
+2015-08-18 20:58:39,045 - ResourceManager : unable to find resource 'example.vm' in any resource loader.
+2015-08-18 21:04:48,767 - ResourceManager : unable to find resource 'velocity/example1/example.vm' in any resource loader.
+2015-08-18 21:06:58,739 - ResourceManager : unable to find resource 'classpath:velocity/example1/example.vm' in any resource loader.
+2015-08-18 21:07:08,193 - ResourceManager : unable to find resource 'classpath:/velocity/example1/example.vm' in any resource loader.
